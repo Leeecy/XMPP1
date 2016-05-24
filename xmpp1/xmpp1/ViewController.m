@@ -44,6 +44,9 @@
 -(void)test{
     
 }
+-(void)test1{
+    
+}
 #pragma mark -
 #pragma mark 数据请求
 
