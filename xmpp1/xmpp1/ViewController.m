@@ -18,6 +18,7 @@
     [super viewDidLoad];
     [self configUI];
     [self setUp];
+    [self loadData];
 }
 
 - (void)didReceiveMemoryWarning {
