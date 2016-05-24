@@ -41,7 +41,9 @@
 }
 #pragma mark -
 #pragma mark 事件
-
+-(void)test{
+    
+}
 #pragma mark -
 #pragma mark 数据请求
 
