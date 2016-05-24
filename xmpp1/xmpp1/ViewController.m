@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import <EaseMob.h>
 @interface ViewController ()
 
 @end
