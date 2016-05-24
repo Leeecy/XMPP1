@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self configUI];
+    [self setUp];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -27,10 +28,16 @@
 #pragma mark 初始化UI
 -(void)configUI{
     self.view.backgroundColor = [UIColor whiteColor];
+    
+}
+-(void)setUp{
+
 }
 #pragma mark -
 #pragma mark 加载数据
-
+-(void)loadData{
+    
+}
 #pragma mark -
 #pragma mark 事件
 
