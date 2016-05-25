@@ -17,6 +17,11 @@ DerivedData
 !default.perspectivev3
 xcuserdata
 
+.metadata/
+# 忽略`Pods/`和`Podfile.lock`
+Pods/
+Podfile.lock
+
 ## Other
 *.xccheckout
 *.moved-aside
